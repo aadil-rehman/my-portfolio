@@ -42,7 +42,7 @@ export const hexa = (hex, alpha) => {
     }
     return `rgb(${r}, ${g}, ${b})`;
   } catch (error) {
-    console.log(error.message);
+    // console.log(error.message);
     return '';
   }
 };

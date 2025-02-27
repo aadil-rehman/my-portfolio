@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import {
   IconAppStore,
   IconCodepen,
@@ -54,8 +54,8 @@ const Icon = ({ name }) => {
   }
 };
 
-Icon.propTypes = {
-  name: PropTypes.string.isRequired,
-};
+// Icon.propTypes = {
+//   name: PropTypes.string.isRequired,
+// };
 
 export default Icon;
