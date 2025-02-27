@@ -20,22 +20,22 @@ const BaseLayout = ({ children }) => {
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@sidmirza4" />
-        <meta property="og:site_name" content="Mohd Shahid | Web & Mobile developer" />
+        <meta name="twitter:site" content="@AaDilRahmaaan" />
+        <meta property="og:site_name" content="Aadil Rehman | Web & Mobile developer" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Mohd Shahid | Web & Mobile developer" />
+        <meta property="og:title" content="Aadil Rehman | Web & Mobile developer" />
         <meta property="og:locale" content="en" />
-        <meta property="og:url" content="https://sidmirza.com" />
+        <meta property="og:url" content="https://aadilrehman.vercel.app/" />
         <meta
           name="description"
-          content="Hi, I'm Mohd Shahid, a Software Engineer passionate about building scalable, high-performance applications for the web and mobile, delivering reliable and seamless user experiences."
+          content="Hi, I'm Aadil Rehman, a Software Engineer passionate about building scalable, high-performance applications for the web and mobile, delivering reliable and seamless user experiences."
         />
         <meta
           name="keywords"
           content="Software Developer, Software Engineer, JavaScript, TypeScript, React, Next.js, NestJS, Node.js, MongoDB, Web Developer, Full-Stack Developer, Freelancer"
         />
-        <meta property="og:image" content="https://sidmirza.com/avatar.JPG" />
-        <meta property="twitter:image" content="https://sidmirza.com/avatar.JPG" />
+        <meta property="og:image" content="https://sidmirza.com/profile-photo.JPG" />
+        <meta property="twitter:image" content="https://sidmirza.com/profile-photo.JPG" />
       </Head>
       {children}
     </div>
